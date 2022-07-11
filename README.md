@@ -1,14 +1,11 @@
 
-
-
 <div  align="center">
-  <h1>👋 Aloha 👋</h1>
-  <i>"Lifelong learning for big impact"</i>
+  <h3>Hi there, I'm Adi !</h3>
 </div>
 
 <hr/>
 
-👨‍💻 Tech Stacks 🧑‍💻
+ 👨‍💻 Tech Stacks 🧑‍💻
 - [Javascript](https://www.javascript.com/)
 - [React](https://reactjs.org/) (including: [Redux](https://redux.js.org/), [Redux-Thunk](https://github.com/reduxjs/redux-thunk), [Context](https://reactjs.org/docs/context.html))
 - [Vue](https://vuejs.org/), [Nuxt](https://nuxtjs.org/) (including: [Vuex](https://vuex.vuejs.org/))
@@ -17,8 +14,6 @@
 - LinkedIn: [Masagus Hariadi Arief](https://www.linkedin.com/in/hariadiarief/)
 - Instagram: [hariadiarief_](https://www.instagram.com/hariadiarief_/)
 - Twitter: [hariadiarief](https://twitter.com/hariadiarief)
- 
- <hr/>
  
 <div  align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=hariadiarief&count_private=true&show_icons=true&theme=dark&hide=issues&line_height=24" />
