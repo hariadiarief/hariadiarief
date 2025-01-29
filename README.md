@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1c8139&center=true&vCenter=true&lines=Ciao;こんにちは;你好;안녕하세요;Здравствуйте;Merhaba;नमस्ते;สวัสดี;Xin+chào;سلام;مرحبًا.." alt="hello">
+<img src="https://readme-typing-svg.herokuapp.com?color=4da6f1&center=true&vCenter=true&lines=Ciao;こんにちは;你好;안녕하세요;Здравствуйте;Merhaba;नमस्ते;สวัสดี;Xin+chào;سلام;مرحبًا.." alt="hello">
 </p>
 <hr/>
 
 - I'm **Adi**, I code for living and living for code.
-- I still learing in [React](https://reactjs.org) and [Next.js](https://nextjs.org) and [Vue](https://vuejs.org/)
-- I'm seeking opportunities to collaborate on open source projects focused on React.
+- always learning and exploring a lot in [React](https://reactjs.org), [Next.js](https://nextjs.org) and [Vue](https://vuejs.org/)
+- seeking opportunities to collaborate on open source projects focused on React.
 
 <br/>
  
